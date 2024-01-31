@@ -1,1 +1,1 @@
-# -npla225-BAE305-SP24-Lab3
+# BAE305-SP24-Lab3
